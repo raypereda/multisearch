@@ -1,5 +1,6 @@
 This is a Java program for searching for a collection of words (or phrases) 
-at the same time.
+at the same time. This uses the Aho-Corasick algorithm.
+See http://en.wikipedia.org/wiki/Aho-Corasick_algorithm
 
 Ray Pereda
 raypereda (at) gmail
